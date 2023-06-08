@@ -1,8 +1,8 @@
-/* .bg0{
+/* /* .bg0{
   background-color: beige;
 } */
 
-.w-25{
+/* .w-25{
   width: 25%;
 }
 
@@ -18,11 +18,22 @@
 
 .btn{
   background-color: white;
-}
-
+} */ 
+/* 
 .s_down #h_section{
   background-color: rgba(0,0,0,.5);
 }
 .s_down #h_section a{
   color: white !important;
 }
+
+.h_logo{
+  display: none;
+}
+.s_down .h_logo{
+  display: block;
+  height: 4rem;
+}
+.s_down .n_logo{
+  display: none;
+} */
